@@ -3,11 +3,11 @@
 Converting images to Paint-By-Numbers-Pictures in Java using OpenCVs k-means clustering for color segmentation and contour drawing.
 
 Original:
-![Alt text](original.jpg?raw=true "Original")
+![Alt text](original.png?raw=true "Original")
 
 Color Segmentation:
-![Alt text](painted.jpg?raw=true "Color Segmentation")
+![Alt text](painted.png?raw=true "Color Segmentation")
 
 Paint-By-Numbers:
-![Alt text](paint-by-nrs.jpg?raw=true "Paint-By-Numbers")
+![Alt text](paint-by-nrs.png?raw=true "Paint-By-Numbers")
 
